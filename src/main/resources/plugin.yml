@@ -1,0 +1,5 @@
+name: Addendum
+version: '${version}'
+main: one.esixtwo.ipt.addendum.Addendum
+api-version: 1.19
+load: STARTUP
